@@ -12,7 +12,7 @@
 #include "string.h"
 #include "stdlib.h"
 #include "stm32f10x_it.h" 
-
+//hi,i am geek!
 int main(void)
 {
 	delay_init();	    	
